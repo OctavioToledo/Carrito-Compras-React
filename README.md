@@ -11,6 +11,5 @@ Tecnologías utilizadas:
 React.js
 Material-UI
 Bootstrap
-¡Explora y disfruta de la experiencia de compra virtual!
 
 
