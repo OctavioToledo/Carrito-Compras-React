@@ -11,5 +11,5 @@ Tecnologías utilizadas:
 React.js
 Material-UI
 Bootstrap
-
+Deploy en netlify: https://carrito-con-react.netlify.app
 
